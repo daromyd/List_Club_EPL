@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EPL Club</string>
+    <string name="club_name">Nama Club</string>
+    <string name="detail">Detail</string>
+    <string name="About">About</string>
+    <string name="nama">Daromy Darojat</string>
+    <string name="email">a2001976@bangkit.academy</string>
+    <string name="season">2020-2021</string>
+    <string name="manager">Manager</string>
+    <string name="manager_club">Manager Club</string>
+    <string name="nickname">Nickname</string>
+    <string name="nickname_club">Nickname Club</string>
+    <string name="stadium">Stadium</string>
+    <string name="stadium_club">Stadium Club</string>
+    <string name="owner">Owner</string>
+    <string name="owner_club">Owner Club</string>
+    <string name="location">Location</string>
+    <string name="location_club">Location Club</string>
+    <string name="detail_club">Detail Club</string>
+    <string name="contact">Contact Me!</string>
+    <string name="squad">Squad List (*Home Ground)</string>
+    <string name="squad_club">Squad Club</string>
+</resources>
